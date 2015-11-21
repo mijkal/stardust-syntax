@@ -1,8 +1,8 @@
 {
   "name": "stardust-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
-  "description": "Haskr is a colorful yet subtle syntax theme for Atom.",
+  "version": "0.0.0",
+  "description": "Stardust is a colorful yet subtle syntax theme for Atom.",
   "keywords": [
     "syntax",
     "theme",
@@ -10,7 +10,7 @@
     "minimalist",
     "subtle"
   ],
-  "repository": "https://github.com/TiagoMarinho/haskr-syntax",
+  "repository": "https://github.com/TiagoMarinho/stardust-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
