@@ -1,7 +1,7 @@
 {
   "name": "stardust-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Stardust is a colorful yet subtle syntax theme for Atom.",
   "keywords": [
     "syntax",
